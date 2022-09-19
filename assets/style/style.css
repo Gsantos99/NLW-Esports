@@ -17,17 +17,43 @@ body * {
   line-height: 160%;
 }
 
-header img {
+header {
+  margin-top: 32px;
+}
+
+header div img {
+  width: 100%;
+  border-radius: 50%;
+}
+
+header div {
   width: 120px;
-  height: 120px;
-  border-radius: 999px;
-   
+  margin: auto;
+  background-image: linear-gradient(
+    90deg,
+    #9572fc 0%,
+    #43e7ad 50.52%,
+    #e2d45c 100%
+  );
+  display: flex;
+  border-radius: 50%;
+  padding: 4px;
+  transition: all 0.3s;
+}
+
+header div:hover {
+  transform: scale(1.25);
 }
 
 section {
   color: white;
-  background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
-  padding-top:4px;
+  background-image: linear-gradient(
+    90deg,
+    #9572fc 0%,
+    #43e7ad 50.52%,
+    #e2d45c 100%
+  );
+  padding-top: 4px;
   border-radius: 10px;
 }
 
@@ -37,8 +63,7 @@ section h2 {
 
 section p {
   letter-spacing: -0.18px;
-  color:#2A2634;
-
+  color: #a1a1aa;
 }
 
 section div {
@@ -49,9 +74,8 @@ section div {
 
 main {
   max-width: 580px;
-  width: 90%; 
-  margin: auto;
-  margin-top: 32px;
+  width: 90%;
+  margin: 32px auto;
   display: flex;
   flex-direction: column;
   gap: 24px;
@@ -67,7 +91,13 @@ section ul {
   margin-top: 24px;
 }
 
+section ul li {
+ transition: all 0.3s;
+}
 
+section ul li:hover {
+  transform: scale(1.25);
+}
 
 .games-list img {
   width: 90px;
@@ -80,4 +110,21 @@ section ul {
   width: 70px;
   border: 1px solid #443e54;
   border-radius: 999px;
+  border: 1px solid #443e54;
+}
+
+/* Animações */
+
+header div {
+  animation: fromTop .3s;
+}
+
+@keyframes fromTop {
+from {
+  transform: translateY(-30px);
+}
+
+to{
+ transform: translateY(0);
+}
 }
