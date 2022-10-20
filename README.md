@@ -1,45 +1,51 @@
-# :warning: Em construção...
-
-:heavy_multiplication_x:
-# NLW eSports 
-Projeto feito durante a NLW eSports, evento da plataforma educacional Rocketseat.
+<h1 align="center"> Nlw: eSports </h1>
 
 <p align="center">
- <a href="#sobre">Sobre a NLW eSports</a> •
- <a href="#obj">Objetivo do projeto</a> • 
-  <a href="#how">Como foi feito</a> •
- <a href="#html">A Estrutura: HTML</a> •  
- <a href="#css">O estilo: CSS</a> •   
- <a href="#tecnologias">Tecnologias usadas no projeto</a> •  
- <a href="#autor">Autor</a> 
+A Nlw Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-## <h1 id='sobre'> :computer: Sobre a NLW eSports </h1>
-<p>... </p>
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-## <h1 id='obj'> :computer: Objetivo do projeto </h1>
-<p>... </p>
+<br>
 
-## <h1 id='how'> :computer: Como foi feito? </h1>
-<p>... </p>
+<p align="center">
+  <img alt="nlwProjeto" src=".github/project.png" width="100%">
+</p>
 
-## <h1 id='html'> :computer: A Estrutura: HTML </h1>
-<p>... </p>
+## 🚀 Tecnologias
 
-## <h1 id='css'> :computer: O estilo: CSS </h1>
-<p>... </p>
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## <h1 id='tecnologias'> :computer: Tecnologias usadas no projeto </h1>
-<ul>
-<li> Html </li>
-<li> CSS </li>
-<li> Git e Github </li>
-</ul>
+- HTML e CSS
+- JavaScript
+- Git 
+- Github
+
+## 💻 Projeto
+
+A proposta do evento NLW eSports era a construção de uma SPA que juntava vários links.
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/Y2p8GHXZ8mttJrrSOTO9lu/NLW-eSports-(Community)?node-id=79%3A2502). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
 
 ## <h1 id='autor'> Autor </h1>
 :heavy_multiplication_x:
-<p> ... </p>
+<p> Feito por <a> Giulyano Santos </p>
 
 
 
