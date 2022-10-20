@@ -18,7 +18,7 @@ A Nlw Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecn
 <br>
 
 <p align="center">
-  <img alt="nlwProjeto" src=".github/project.png" width="100%">
+  <img alt="nlwProjeto" src="./assets/img/NLW eSports (Community).jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A proposta do evento NLW eSports era a construção de uma SPA que juntava vários links.
 
-## 🔖 Layout
+## 🔖 Layout de referência
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/Y2p8GHXZ8mttJrrSOTO9lu/NLW-eSports-(Community)?node-id=79%3A2502). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
@@ -44,8 +44,10 @@ Esse projeto está sob a licença MIT.
 
 
 ## <h1 id='autor'> Autor </h1>
-:heavy_multiplication_x:
-<p> Feito por <a> Giulyano Santos </p>
+<p align="center">
+  <img alt="autorPhoto" src="./assets/img/giulyano-photo.jpg" width="50%">
+</p>
+<p> Feito por <a href='https://www.linkedin.com/in/giulyano-santos-a92b6917b/' target='_blank'> Giulyano Santos </a> </p>
 
 
 
