@@ -1,7 +1,7 @@
 <h1 align="center"> Nlw: eSports </h1>
 
 <p align="center">
-A Nlw Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+A Nlw é evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ A Nlw Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecn
 <br>
 
 <p align="center">
-  <img alt="nlwProjeto" src="./assets/img/NLW eSports (Community).jpg" width="100%">
+  <img alt="nlwProjeto" src="./assets/img/NLW-eSports.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -45,7 +45,7 @@ Esse projeto está sob a licença MIT.
 
 ## <h1 id='autor'> Autor </h1>
 <p align="center">
-  <img alt="autorPhoto" src="./assets/img/giulyano-photo.jpg" width="50%">
+  <img alt="autorPhoto" src="./assets/img/giulyano-photo.jpeg" width="50%">
 </p>
 <p> Feito por <a href='https://www.linkedin.com/in/giulyano-santos-a92b6917b/' target='_blank'> Giulyano Santos </a> </p>
 
